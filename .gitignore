@@ -19,6 +19,8 @@ project/local-plugins.sbt
 .classpath
 .project
 .settings
+.dotty-ide.json
+.dotty-ide-artifact
 classes/
 
 # idea
